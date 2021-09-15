@@ -1,5 +1,0 @@
-#!/bin/bash
-gcc -O3 -W -Wall pswriter.c  -lm
-cp a.out pswriter
-
-
